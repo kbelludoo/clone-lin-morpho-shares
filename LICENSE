@@ -1,0 +1,17 @@
+SPDX-License-Identifier: GPL-2.0-or-later
+
+This repository is a LIN translation of Morpho Blue SharesMathLib and MathLib
+(morpho-org/morpho-blue tag v1.0.0, commit 55d2d99304fb3fb930c688462ae2ccabb1d533ad).
+
+Those Solidity files carry SPDX-License-Identifier: GPL-2.0-or-later.
+The upstream repository LICENSE at that tag is Business Source License 1.1
+with Change Date 2026-01-01 and Change License GNU GPL v2.0 or later.
+This copy is published after the Change Date and is therefore under
+GPL-2.0-or-later.
+
+Copyright (c) 2023 Morpho Association (upstream algorithm)
+LIN translation 2026 — same license.
+
+You should have received a copy of the GNU General Public License along
+with this work, or you may obtain it at:
+https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
